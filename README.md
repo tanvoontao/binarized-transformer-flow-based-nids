@@ -1,3 +1,4 @@
 # binarized-transformer-flow-based-nids
 
-This GitHub repository is associated with our journal publication. The source code will be made publicly available upon completion of the publication process and will be released in due course.
+This GitHub repository is associated with our journal publication. We are currently preparing the codebase for release, including code cleanup, documentation improvements, and repository organization.
+
